@@ -1,0 +1,13 @@
+1교시 
+
+5주차 리뷰
+중간고사 대비 리눅스 명령어, 깃 명령어 복습 (cat, cd, touch, git clone, git checkout)
+깃/깃허브 충돌해결 오리엔테이션
+
+깃 명령어
+git log --oneline
+
+2교시
+
+리눅스 명령어
+...
